@@ -9,11 +9,14 @@ This project provides a robust and efficient solution for web application testin
 
 Here's how the project is organized:
 
+```
 ├── conftest.py # ⚙️ Pytest configuration and shared fixtures (e.g., setup).  
 ├── test_example.py # 🧪 Example test cases for web application testing.  
 ├── pytest.ini # 📝 Optional: Pytest configuration file.  
 ├── README.md # 📖 Project documentation (this file!).  
 └── .github/workflows/test01.yml # 🤖 GitHub Actions workflow for CI.  
+```
+
 * **`conftest.py`**:
     * Contains Pytest fixtures, most importantly the `setup` fixture.
     * The `setup` fixture handles:
@@ -42,6 +45,8 @@ Here's how the project is organized:
 ## 🚀 Getting Started
 
 > NOTE:- Not using [webdriver-manager](https://pypi.org/project/webdriver-manager/) right now as their workflows are failing with webdriver since some months. Check [here](https://github.com/SergeyPirogov/webdriver_manager/actions/workflows/test.yml) for more info. 
+
+> Project is on hold due to Ukraine war 
 
 ### Prerequisites
 
