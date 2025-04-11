@@ -124,21 +124,26 @@ How to Use the Workflow
 
 ---
 🎯 Key Concepts  
+
 Pytest Fixtures:  
 * We use Pytest fixtures to manage the setup and teardown of the Selenium WebDriver.
 * The setup fixture ensures that a browser instance is initialized before the tests run and is closed after the tests finish.
 * Fixtures promote code reusability and maintainability.
 * Using scope="session" in the setup fixture optimizes browser usage, creating the browser instance only once per test session.
-* Selenium WebDriver:
+
+Selenium WebDriver:
 * Selenium WebDriver is used to automate web browser interactions.
 * It allows us to control the browser programmatically, simulating user actions like navigating to pages, clicking elements, and entering text.
-* WebDriver Manager:
+
+WebDriver Manager:
 * webdriver-manager simplifies the process of managing browser drivers (e.g., chromedriver, geckodriver).
 * It automatically downloads the correct driver version for your browser, eliminating the need for manual driver installation and updates.
-* Test Assertions:
+
+Test Assertions:
 * Test functions include assertions (e.g., assert ...) to verify that the actual results match the expected outcomes.
 * Assertions are crucial for determining whether a test has passed or failed.
-* Modular Design:
+
+Modular Design:
 * The project is structured into separate files (conftest.py,
 
 ---
