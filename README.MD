@@ -1,5 +1,7 @@
 # 🧪 Selenium Test Automation with Pytest 🚀
 
+[![Project Status](https://github.com/nitinkumar30/pytest_with_githubActions/actions/workflows/test01.yml/badge.svg)](https://github.com/nitinkumar30/pytest_with_githubActions/actions/workflows/test01.yml)
+
 ## Introduction ✨
 
 This project provides a robust and efficient solution for web application testing using Selenium and Pytest. It's designed to help you write clean, maintainable, and scalable automated tests. We leverage `webdriver-manager` for streamlined driver management, and Pytest fixtures for optimized test setup and teardown.  The project also includes a GitHub Actions workflow for continuous integration.
