@@ -1,16 +1,14 @@
 # .github/workflows/test01.yaml
 name: test01
 on:
-  push:
-    branches:
-      - master
+  workflow_dispatch:  
 jobs:
   test01:
     runs-on: ubuntu-latest
     steps:
       - name: Check out this repo
         uses: actions/checkout@v3
-     #Setup Python
+     #Setup Python   
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -22,5 +20,4 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Run the PytTest script
-        run: pytest -rA
-
+        run: pytest -rA 
