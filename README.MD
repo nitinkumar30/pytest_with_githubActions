@@ -1,6 +1,9 @@
 # 🧪 Selenium Test Automation with Pytest 🚀
 
-[![Project Status](https://github.com/nitinkumar30/pytest_with_githubActions/actions/workflows/test01.yml/badge.svg)](https://github.com/nitinkumar30/pytest_with_githubActions/actions/workflows/test01.yml)
+<!-- [![Project Status](https://github.com/nitinkumar30/pytest_with_githubActions/actions/workflows/test01.yml/badge.svg)](https://github.com/nitinkumar30/pytest_with_githubActions/actions/workflows/test01.yml) -->
+
+image:https://img.shields.io/github/actions/workflow/status/nitinkumar30/pytest_with_githubActions/actions/workflows/test01.yml[Unit Tests, link=https://github.com/nitinkumar30/pytest_with_githubActions/actions/workflows/test01.yml]
+
 
 ## Introduction ✨
 
