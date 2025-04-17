@@ -2,7 +2,8 @@
 
 <!-- [![Project Status](https://github.com/nitinkumar30/pytest_with_githubActions/actions/workflows/test01.yml/badge.svg)](https://github.com/nitinkumar30/pytest_with_githubActions/actions/workflows/test01.yml) -->
 
-![test01](https://img.shields.io/github/actions/workflow/status/nitinkumar30/pytest_with_githubActions/actions%2Fworkflows%2Ftest01.yml?branch=master)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/nitinkumar30/pytest_with_githubActions/nitinkumar30%2Fpytest_with_githubActions%2Factions%2Fworkflows%2Ftest01.yml?branch=master)
+
 
 ## Introduction ✨
 
