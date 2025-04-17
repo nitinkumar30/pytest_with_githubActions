@@ -1,5 +1,5 @@
 # .github/workflows/test01.yaml
-name: test01
+name: build
 on:
   workflow_dispatch:  
 jobs:
