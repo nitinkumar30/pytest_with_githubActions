@@ -2,7 +2,11 @@
 
 <!-- [![Project Status](https://github.com/nitinkumar30/pytest_with_githubActions/actions/workflows/test01.yml/badge.svg)](https://github.com/nitinkumar30/pytest_with_githubActions/actions/workflows/test01.yml) -->
 
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/nitinkumar30/pytest_with_githubActions/nitinkumar30%2Fpytest_with_githubActions%2Factions%2Fworkflows%2Ftest01.yml?branch=master)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/nitinkumar30/pytest_with_githubActions/.github%2Fworkflows%2Ftest01.yml?branch=master)
+
+
+<!-- image:https://img.shields.io/github/actions/workflow/status/HelioGuilherme66/RIDE/linux.yml[Unit Tests, link=https://github.com/HelioGuilherme66/RIDE/actions/workflows/linux.yml] -->
+
 
 
 ## Introduction ✨
