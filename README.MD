@@ -5,10 +5,6 @@
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/nitinkumar30/pytest_with_githubActions/.github%2Fworkflows%2Ftest01.yml?branch=master)
 
 
-<!-- image:https://img.shields.io/github/actions/workflow/status/HelioGuilherme66/RIDE/linux.yml[Unit Tests, link=https://github.com/HelioGuilherme66/RIDE/actions/workflows/linux.yml] -->
-
-
-
 ## Introduction ✨
 
 This project provides a robust and efficient solution for web application testing using Selenium and Pytest. It's designed to help you write clean, maintainable, and scalable automated tests. We leverage `webdriver-manager` for streamlined driver management, and Pytest fixtures for optimized test setup and teardown.  The project also includes a GitHub Actions workflow for continuous integration.
